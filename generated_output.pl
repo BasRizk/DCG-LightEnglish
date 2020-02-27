@@ -1,0 +1,61 @@
+noun --> [boy].
+noun --> [man].
+noun --> [box].
+noun --> [school].
+noun --> [room].
+noun --> [woman].
+noun --> [man].
+noun --> [they].
+noun --> [envelope].
+noun --> [shed].
+noun --> [building].
+noun --> [tree].
+noun --> [girl].
+noun --> [students].
+noun --> [professors].
+noun --> [lecturers].
+noun --> [scientists].
+noun --> [researchers].
+noun --> [cat].
+noun --> [bat].
+verb --> [worked].
+verb --> [pushed].
+verb --> [stored].
+verb --> [gave].
+verb --> [liked].
+verb --> [climbed].
+verb --> [watched].
+verb --> [admired].
+verb --> [appreciated].
+verb --> [eats].
+adj --> [young].
+adj --> [old].
+adj --> [big].
+adj --> [large].
+adj --> [empty].
+adj --> [poor].
+adj --> [white].
+adj --> [brilliant].
+adj --> [talented].
+adj --> [bright].
+adv --> [quickly].
+adv --> [secretly].
+prep --> [for].
+prep --> [and].
+prep --> [in].
+prep --> [after].
+prep --> [in].
+prep --> [behind].
+det --> [the].
+det --> [who].
+det --> [whom].
+det --> [every].
+det --> [some].
+det --> [many].
+det --> [a].
+det --> [an].
+
+sentence(['the', 'young', 'boy', 'who', 'worked', 'for', 'the', 'old', 'man', 'pushed', 'and', 'stored', 'a', 'big', 'box', 'in', 'the', 'large', 'empty', 'room', 'after', 'school'],[]).
+sentence(['the', 'old', 'woman', 'and', 'the', 'old', 'man', 'gave', 'the', 'poor', 'young', 'man', 'whom', 'they', 'liked', 'a', 'white', 'envelope', 'in', 'the', 'shed', 'behind', 'the', 'building'],[]).
+sentence(['every', 'boy', 'quickly', 'climbed', 'some', 'big', 'tree', 'while', 'every', 'girl', 'secretly', 'watched', 'some', 'boy'],[]).
+sentence(['some', 'brilliant', 'students', 'and', 'many', 'professors', 'watched', 'and', 'admired', 'talented', 'lecturers', 'and', 'appreciated', 'bright', 'scientists', 'and', 'researchers'],[]).
